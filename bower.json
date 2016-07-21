@@ -1,0 +1,21 @@
+{
+  "name": "ebashu-v-kashu",
+  "description": "",
+  "main": "",
+  "authors": [
+    "allin_000 <hukutatlt@mail.ru>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flexboxgrid": "^6.3.0"
+  }
+}
