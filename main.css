@@ -6,7 +6,7 @@
 
 .wide{width: 100%;}
 
-.h100{height: 100px;}
+.h4rem{height: 4rem;}
 .h3000{height: 3000px;}
 .h100perc{height: 100%;}
 .vh100{height: 100vh;}
@@ -17,7 +17,11 @@
 
 .l1px{left: 1px;}
 
-.mt100{margin-top: 100px;}
+.mt3rem{margin-top: 3rem;}
+.mt4rem{margin-top: 4rem;}
+.mt5rem{margin-top: 5rem;}
+
+.pt5rem{padding-top: 5rem;}
 
 .p0{padding: 0;}
 
@@ -32,3 +36,5 @@
 
 
 .box{border-width: 0px;}
+
+div {box-sizing: border-box}
